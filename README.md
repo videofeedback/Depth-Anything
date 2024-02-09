@@ -1,3 +1,5 @@
+[![Discord Follow](https://dcbadge.vercel.app/api/server/feYhyYznDf?style=flat)](https://discord.gg/feYhyYznDf)
+
 <div align="center">
 <h2>Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data</h2>
 
